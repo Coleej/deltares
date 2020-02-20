@@ -6,3 +6,6 @@
 
 # python egg metadata
 /*.egg-info
+
+# scratch work
+/scratch/
